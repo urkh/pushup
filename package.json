@@ -1,0 +1,20 @@
+{
+  "name": "pushup",
+  "version": "0.0.1",
+  "description": "notifications service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-logger": "0.0.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.4.8",
+    "nodemon": "^1.9.1",
+    "socket.io": "^1.4.5"
+  }
+}
